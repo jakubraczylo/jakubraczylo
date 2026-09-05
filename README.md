@@ -45,7 +45,9 @@ I like understanding how things break even more.
 
 ## `ls -la ~/projects`
 
-> Nothing here yet — first projects coming as I build them.
+| Project | Description | Status |
+|---|---|---|
+| [`attack-surface-monitor`](https://github.com/jakubraczylo/attack-surface-monitor) | Python tool that watches a domain for new subdomains, open ports and TLS certs, and alerts to Discord when something changes | 🚧 In progress |
 
 <br>
 
