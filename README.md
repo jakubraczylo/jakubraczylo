@@ -45,39 +45,7 @@ I like understanding how things break even more.
 
 ## `ls -la ~/projects`
 
-> Projects will appear here as I build them.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**`web-security/`**
-
-Web application security labs, assessments and write-ups.
-
-*Coming soon.*
-
-</td>
-<td width="33%" valign="top">
-
-**`security-tools/`**
-
-Small tools and automation scripts written while learning.
-
-*Coming soon.*
-
-</td>
-<td width="33%" valign="top">
-
-**`reverse-engineering/`**
-
-Analysis of intentionally vulnerable binaries.
-
-*Coming soon.*
-
-</td>
-</tr>
-</table>
+> Nothing here yet — first projects coming as I build them.
 
 <br>
 
